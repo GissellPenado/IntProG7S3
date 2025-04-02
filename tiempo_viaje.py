@@ -5,3 +5,4 @@ duracion_segunda_escala=float(input("Ingresa la duracion de la segunda escala: "
 duracion_tercer_tramo=float(input("Ingrese la duracion del tercer tramo del vuelo: "))
 tiempo_total_viaje=((((duracion_primer_tramo+duracion_primera_escala)+duracion_segundo_tramo)+duracion_segunda_escala)+duracion_tercer_tramo)
 print("El tiempo total del viaje es de: ", tiempo_total_viaje)
+print("Realizado por Gissell")
